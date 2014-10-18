@@ -1,0 +1,26 @@
+{
+  "name": "Chiwaya-API",
+  "version": "0.0.1",
+  "description": "API for chiwaya locations?",
+  "main": "chiwaya.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vikulak/Chiwaya-API.git"
+  },
+  "keywords": [
+    "Chiwaya",
+    "Malawi",
+    "Node.js",
+    "API",
+    "Trope"
+  ],
+  "author": "Vikula Kavwenje, Zikani03",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vikulak/Chiwaya-API/issues"
+  },
+  "homepage": "https://github.com/Vikulak/Chiwaya-API"
+}
